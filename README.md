@@ -38,7 +38,9 @@ https://www.kaggle.com/datasets/zhangluyuan/ab-testing
 
 ## Conclusion:
 p-value: 0.181 is above our significance level 0.05, meaning that there is no statistically significant difference in the proportions of the outcome between the two groups. In other words, we fail to reject the null hypothesis. The new design couldn't outperform the old design.
+
 Remember, the baseline of conversion rate for the treatement group was set to 13%, and the target value was 15%. If we look at the confidence interval of the treatment group [0.114, 0.133] is 11.6% - 13.3%, which includes the baseline value 13% but not the target value 15%
+
 This is further proof that the new design isn't likely to be an improvement on the old desin. Cheers..
 
 
