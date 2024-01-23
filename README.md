@@ -13,13 +13,13 @@ Process
 
 1. Desinging our experiment 
 - Creating a hypothesis
-- Two tailed test
-- Confidence level of 95% (α = 0.05)
+  - Two tailed test
+  - Confidence level of 95% (α = 0.05)
 - Choosing the variables
   - Control group
   - Teatment group
 - Choosing a sample size  (below here please refer to the notebook)
-- 4720 based on the effect size, power, α etc 
+  - 4720 based on the effect size, power, α, etc 
 2. Collecting and preparing the data 
 - Checking the distribution of data
 - Converted or not
