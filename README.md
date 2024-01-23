@@ -12,21 +12,20 @@ https://www.kaggle.com/datasets/zhangluyuan/ab-testing
 Process 
 
 1. Desinging our experiment 
-
-1.1. Creating a hypothesis 
-1.1.1. Two tailed test
-1.1.2. Confidence level of 95% (α = 0.05)
-1.2. Choosing the variables
-1.2.1. Control group
-1.2.2.Treatment group
-1.3. Choosing a sample size  (below here please refer to the notebook)
-1.3.1. 4720 based on the effect size, power, α etc 
+- Creating a hypothesis
+- Two tailed test
+- Confidence level of 95% (α = 0.05)
+- Choosing the variables
+  - Control group
+  - Teatment group
+- Choosing a sample size  (below here please refer to the notebook)
+- 4720 based on the effect size, power, α etc 
 2. Collecting and preparing the data 
-2.1. Checking the distribution of data
-2.2. Converted or not
-2.2.1. 0 - The user did not buy the product during this user session
-2.2.2. 1 - The user bought the product during this user session
-2.3. Sampling 
+- Checking the distribution of data
+- Converted or not
+  - 0 - The user did not buy the product during this user session
+  - 1 - The user bought the product during this user session
+- Sampling 
 3. Visualizing the results
 4. Testing hypothesis 
 5. Drawing conclusion 
