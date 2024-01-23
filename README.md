@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/zhangluyuan/ab-testing
 Process 
 
 1. Desinging our experiment 
+
 1.1. Creating a hypothesis 
 1.1.1. Two tailed test
 1.1.2. Confidence level of 95% (α = 0.05)
